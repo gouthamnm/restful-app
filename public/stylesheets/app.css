@@ -1,0 +1,15 @@
+i.icon {
+ font-size: 2.0em;
+}
+
+.container.main {
+    margin-top: 7.0em;
+}
+
+.footer {
+    background: black ;
+    margin-top: 5%;
+    color: white;
+    text-align: center;
+    border-top: 3px solid #f1f1f1;
+}
